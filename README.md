@@ -1,2 +1,2 @@
 # CounterWebApp
-NxtWave coding practice web-appi
+NxtWave coding practice web-app
